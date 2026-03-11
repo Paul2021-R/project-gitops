@@ -7,7 +7,7 @@ metadata:
     app: protostar
     tier: backend
 data:
-  REDIS_HOST: "192.168.0.37"
+  REDIS_HOST: "protostar-redis-headless.service.svc.cluster.local"
   REDIS_PORT: "6379"
   REDIS_DB: "0"
   MINIO_ENDPOINT: "http://192.168.0.41:9000"
