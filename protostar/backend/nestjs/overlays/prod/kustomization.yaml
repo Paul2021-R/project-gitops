@@ -6,7 +6,7 @@ resources:
 
 images:
   - name: ghcr.io/paul2021-r/project-protostar-nest
-    newTag: "latest"
+    newTag: "3"
 
 patches:
   - patch: |-
